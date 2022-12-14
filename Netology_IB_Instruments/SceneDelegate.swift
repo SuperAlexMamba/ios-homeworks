@@ -1,6 +1,6 @@
 //
 //  SceneDelegate.swift
-//  Navigation
+//  Netology_IB_Instruments
 //
 //  Created by Слава Орлов on 14.12.2022.
 //

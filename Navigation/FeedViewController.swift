@@ -37,7 +37,6 @@ class FeedViewController: UIViewController {
         
         postViewController.titleString = post.title
     
-        
     }
     
 }

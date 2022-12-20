@@ -35,16 +35,11 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
         profileNavigationController.tabBarItem.title = "Profile"
         profileNavigationController.tabBarItem.image = UIImage(systemName: "person.crop.circle")
         
-
-        
-        
         postViewController.navigationItem.rightBarButtonItem?.title = "INFO"
         
         
         window.rootViewController = tabBarController
         window.makeKeyAndVisible()
-        
-        
         
         self.window = window
         
